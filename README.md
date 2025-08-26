@@ -1,8 +1,14 @@
-<h4 align="center">I am a software engineering student at FAST NUCES Batch 23, with a solid foundation in programming and experience in Python, Java, and C/C++ HTML, CSS, SQL and Machine Learning. Additionally alongside my coding, I have expertise in Power BI and data visualization and have done projects in them. Currently in my 3rd semester and im eager to undertake projects and internships that will help me apply and enhance my skills in real-world scenarios.</h4>
+<h4 align="center">Software Engineering student at FAST NUCES. 
+
+Experienced and worked on LLM's, Agents, ML/AI, C/C++, Python, Java, Databases
+
+Expertise in data visualization, particularly using Power BI, Plotly.
+
+Currently in my 5th semester seeking knowledge and working on projects to gain hands-on experience and apply my skills in real-world scenarios. I am eager to work with like-minded professionals and contribute to projects that make a difference.</h4>
 
 ###
 
-<div align="center">
+<div align="center"t
   <img src="https://github-readme-stats.vercel.app/api?username=hassnain08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassnain08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
