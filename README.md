@@ -2,9 +2,9 @@
 
 Experienced and worked on LLM's, Agents, ML/AI, C/C++, Python, Java, Databases
 
-Expertise in data visualization, particularly using Power BI, Plotly.
+Expertise in data visualization, particularly using Power BI.
 
-Currently in my 5th semester seeking knowledge and working on projects to gain hands-on experience and apply my skills in real-world scenarios. I am eager to work with like-minded professionals and contribute to projects that make a difference.</h4>
+Currently in my 6th semester seeking knowledge and working on projects to gain hands-on experience and apply my skills in real-world scenarios. I am eager to work with like-minded professionals and contribute to projects that make a difference.</h4>
 
 ###
 
